@@ -18,3 +18,4 @@ There are three folders with the same names as this three `html` file. They cont
 
 In the prediction part, I use the dataset from  [Bogachev, Y. (2022). CSGO Dataset. GitHub.](https://github.com/YuvalBogachev/csgo-dataset). This dataset is named as `csgo_player_stats.csv`.
 
+For JI students, please follow the Honor Code strictly.
