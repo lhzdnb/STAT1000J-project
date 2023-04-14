@@ -4,7 +4,7 @@ My name is Hao Liang(梁昊)，student ID: 520370910094. Email: lh20020727@sjtu.
 
 This is my final project of STAT1000J!
 
-I analyze datasets of Counter Strike: Global Offensive. Most code are in `project.ipynb` and some important functions are defined in `main.py`. 
+I analyze datasets of Counter Strike: Global Offensive. Most codes are in `project.ipynb` and some important functions are defined in `main.py`. 
 
 As part of my data analytics project, I've extracted data from three unique HLTV websites. To prepare for any potential changes to these sites, I've thought ahead and downloaded the  `html`  files for each one. This ensures that I can always access this valuable data for future analysis, no matter what happens to the live website. They are names as:
 
